@@ -20,5 +20,6 @@ public class Controller extends HttpServlet {
         String username = req.getParameter("username");
         String password = req.getParameter("password");
         String re_Password = req.getParameter("rePassword");
+
     }
 }
